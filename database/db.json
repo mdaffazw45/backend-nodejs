@@ -1,0 +1,299 @@
+{
+  "planes": [
+    {
+      "name": "Sukhoi Su-57",
+      "origin": "Russia",
+      "speed": "2,440 km/h",
+      "country": "Russia",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Saturn AL-41F1",
+      "manufacturer": "Sukhoi",
+      "countryUsers": [
+        "Russia"
+      ]
+    },
+    {
+      "name": "Lockheed Martin F-22 Raptor",
+      "origin": "United States",
+      "speed": "2,414 km/h",
+      "country": "United States",
+      "armament": "M61A2 Vulcan cannon, air-to-air missiles",
+      "engine": "Pratt & Whitney F119",
+      "manufacturer": "Lockheed Martin",
+      "countryUsers": [
+        "United States"
+      ]
+    },
+    {
+      "name": "Boeing F/A-18 Super Hornet",
+      "origin": "United States",
+      "speed": "1,915 km/h",
+      "country": "United States",
+      "armament": "M61A2 Vulcan cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "General Electric F414",
+      "manufacturer": "Boeing Defense, Space & Security",
+      "countryUsers": [
+        "United States",
+        "Australia"
+      ]
+    },
+    {
+      "name": "Eurofighter Typhoon",
+      "origin": "Multi-national",
+      "speed": "2,495 km/h",
+      "country": "United Kingdom, Germany, Italy, Spain",
+      "armament": "Mauser BK-27 cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Eurojet EJ200",
+      "manufacturer": "Eurofighter Jagdflugzeug GmbH",
+      "countryUsers": [
+        "United Kingdom",
+        "Germany",
+        "Italy",
+        "Spain",
+        "Austria",
+        "Saudi Arabia",
+        "Oman",
+        "Kuwait",
+        "Qatar"
+      ]
+    },
+    {
+      "name": "Chengdu J-20",
+      "origin": "China",
+      "speed": "2,100 km/h",
+      "country": "China",
+      "armament": "30mm cannon, air-to-air missiles",
+      "engine": "WS-10G",
+      "manufacturer": "Chengdu Aerospace Corporation",
+      "countryUsers": [
+        "China"
+      ]
+    },
+    {
+      "name": "Mikoyan MiG-35",
+      "origin": "Russia",
+      "speed": "2,400 km/h",
+      "country": "Russia",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Klimov RD-33MK",
+      "manufacturer": "Mikoyan",
+      "countryUsers": [
+        "Russia"
+      ]
+    },
+    {
+      "name": "Dassault Rafale",
+      "origin": "France",
+      "speed": "1,912 km/h",
+      "country": "France",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Snecma M88",
+      "manufacturer": "Dassault Aviation",
+      "countryUsers": [
+        "France",
+        "India",
+        "Qatar",
+        "Egypt",
+        "Greece",
+        "Croatia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "F-16 Fighting Falcon",
+      "origin": "United States",
+      "speed": "2,414 km/h",
+      "country": "United States",
+      "armament": "M61 Vulcan cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "General Electric F110",
+      "manufacturer": "Lockheed Martin",
+      "countryUsers": [
+        "Over 25 countries"
+      ]
+    },
+    {
+      "name": "Saab JAS 39 Gripen",
+      "origin": "Sweden",
+      "speed": "2,470 km/h",
+      "country": "Sweden",
+      "armament": "27mm Mauser BK-27 cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Volvo RM12",
+      "manufacturer": "Saab AB",
+      "countryUsers": [
+        "Sweden",
+        "South Africa",
+        "Czech Republic",
+        "Hungary",
+        "Thailand",
+        "Brazil"
+      ]
+    },
+    {
+      "name": "HAL Tejas",
+      "origin": "India",
+      "speed": "2,205 km/h",
+      "country": "India",
+      "armament": "23mm twin-barrel GSh-23 cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "General Electric F404",
+      "manufacturer": "Hindustan Aeronautics Limited",
+      "countryUsers": [
+        "India"
+      ]
+    },
+    {
+      "name": "F-14 Tomcat",
+      "origin": "United States",
+      "speed": "2,485 km/h",
+      "country": "United States",
+      "armament": "M61 Vulcan cannon, air-to-air missiles",
+      "engine": "General Electric F110",
+      "manufacturer": "Grumman Aerospace Corporation",
+      "countryUsers": [
+        "United States",
+        "Iran"
+      ]
+    },
+    {
+      "name": "Sukhoi Su-35",
+      "origin": "Russia",
+      "speed": "2,500 km/h",
+      "country": "Russia",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Saturn AL-41F1S",
+      "manufacturer": "Sukhoi",
+      "countryUsers": [
+        "Russia",
+        "China",
+        "India"
+      ]
+    },
+    {
+      "name": "Yakovlev Yak-141",
+      "origin": "Soviet Union",
+      "speed": "1,800 km/h",
+      "country": "Soviet Union",
+      "armament": "30mm cannon, air-to-air missiles",
+      "engine": "Soyuz R-79V-300",
+      "manufacturer": "Yakovlev",
+      "countryUsers": [
+        "Soviet Union"
+      ]
+    },
+    {
+      "name": "F-15 Eagle",
+      "origin": "United States",
+      "speed": "3,017 km/h",
+      "country": "United States",
+      "armament": "M61 Vulcan cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Pratt & Whitney F100",
+      "manufacturer": "McDonnell Douglas",
+      "countryUsers": [
+        "United States",
+        "Israel",
+        "Japan",
+        "Saudi Arabia",
+        "Indonesia",
+        "Qatar"
+      ]
+    },
+    {
+      "name": "Shenyang J-16",
+      "origin": "China",
+      "speed": "2,400 km/h",
+      "country": "China",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "WS-10B",
+      "manufacturer": "Shenyang Aircraft Corporation",
+      "countryUsers": [
+        "China"
+      ]
+    },
+    {
+      "name": "Shenyang J-15",
+      "origin": "China",
+      "speed": "2,400 km/h",
+      "country": "China",
+      "armament": "30mm cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "WS-10B",
+      "manufacturer": "Shenyang Aircraft Corporation",
+      "countryUsers": [
+        "China"
+      ]
+    },
+    {
+      "name": "Panavia Tornado",
+      "origin": "Multi-national",
+      "speed": "2,400 km/h",
+      "country": "United Kingdom, Germany, Italy",
+      "armament": "Cannon, air-to-air missiles, air-to-surface missiles",
+      "engine": "Twin Turbofan Engines",
+      "manufacturer": "Panavia Aircraft GmbH",
+      "countryUsers": [
+        "United Kingdom",
+        "Germany",
+        "Italy",
+        "Saudi Arabia"
+      ]
+    }
+  ],
+  "helicopters": [
+    {
+      "name": "Bell UH-1 Iroquois",
+      "origin": "United States",
+      "speed": "217 km/h",
+      "country": "United States",
+      "armament": "Machine guns, rockets",
+      "engine": "Lycoming T53-L-11",
+      "manufacturer": "Bell Helicopter",
+      "countryUsers": [
+        "United States",
+        "Australia",
+        "Germany"
+      ]
+    },
+    {
+      "name": "Mil Mi-24",
+      "origin": "Soviet Union",
+      "speed": "335 km/h",
+      "country": "Soviet Union",
+      "armament": "Cannon, anti-tank missiles, rockets",
+      "engine": "Two Klimov TV3-117 turbines",
+      "manufacturer": "Mil Moscow Helicopter Plant",
+      "countryUsers": [
+        "Russia",
+        "India",
+        "Various others"
+      ]
+    },
+    {
+      "name": "AH-64 Apache",
+      "origin": "United States",
+      "speed": "350 km/h",
+      "country": "United States",
+      "armament": "M230 Chain Gun, AGM-114 Hellfire missiles, Hydra 70 rockets",
+      "engine": "Two General Electric T700 turboshafts",
+      "manufacturer": "Boeing Defense, Space & Security",
+      "countryUsers": [
+        "United States",
+        "United Kingdom",
+        "Israel",
+        "Japan",
+        "Netherlands"
+      ]
+    },
+    {
+      "name": "Mi-17",
+      "origin": "Soviet Union",
+      "speed": "250 km/h",
+      "country": "Soviet Union",
+      "armament": "Machine guns, rockets",
+      "engine": "Klimov TV3-117MT",
+      "manufacturer": "Kazan Helicopter Plant",
+      "countryUsers": [
+        "Russia",
+        "India",
+        "Various others"
+      ]
+    }
+  ]
+}
